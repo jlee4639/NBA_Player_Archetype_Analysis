@@ -53,6 +53,8 @@ We downloaded the NBA player data and performance statistics from 2012 to 2023 i
 
 ## Data Import and Statistical Methods
 
+Link to the Kaggle dataset with the Regular_season.csv: https://www.kaggle.com/code/dricmoy/top-performers-in-the-nba-analysis/input
+
 ### Loading the Dataset
 
 ```python
